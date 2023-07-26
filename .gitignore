@@ -39,3 +39,4 @@ Thumbs.db
 .project
 .settings
 .ruby-version
+.DS_Store
